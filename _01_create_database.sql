@@ -1,0 +1,2 @@
+-- Create database
+CREATE DATABASE IF NOT EXISTS movie_review_system;
